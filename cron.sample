@@ -1,0 +1,2 @@
+MAILTO="test@example.com"
+0 6-8 25 1-11/2 * python3 lottery.py drawings.json
